@@ -1,0 +1,15 @@
+{
+  "name":"katiusca/mpwar-fw",
+  "description":"MPWAR Framework",
+  "license":"Apache-2.0",
+  "keywords": [],
+  "homepage":"https://github.com/katiusca/mpwar-fw",
+  "type":"project",
+  "require": {
+    "php":">=5.5.2"
+  },
+  "minimum-stability":"dev",
+  "autoload": {
+    "psr-0": { "Mpwar-fw\\": "src/" }
+  }
+}
